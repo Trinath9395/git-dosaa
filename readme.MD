@@ -4,9 +4,12 @@
 * dosa batter 
 * light oil
 
-# karam dosa 
+# karam dosa
 * dosa batter
 
 # Egg dosa
-* dosa batter
-* 2 eggs, karam and oil
+* dosa batter 
+
+# Egg dosa 
+* dosa batter 
+* 1 egg, karam and oil 

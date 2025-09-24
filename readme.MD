@@ -17,4 +17,6 @@
 # panner dosa 
 * dosa batter 
 * oil 
-* panner 
+* panne
+* dosa batter 
+
